@@ -14,6 +14,20 @@ public class Apple extends Fruit{
 	{
 		System.out.println("Apple created Jam");
 	}
-	
+	public void createJam1()
+	{
+		System.out.println("Apple created Jam1");
+	}
+	public void createJam2()
+	{
+		System.out.println("Apple created Jam2");
+		System.out.println("Apple created Jam2");
+		System.out.println("Apple created Jam2");
+		System.out.println("Apple created Jam2");
+		System.out.println("Apple created Jam2");
+		System.out.println("Apple created Jam2");
+		System.out.println("Apple created Jam2");
+		
+	}
 
 }
